@@ -1,4 +1,4 @@
-# Kafka Broker — Docker Compose Setup
+# MERN Space - Kafka Broker
 
 > **⚠️ Bitnami Docker Images No Longer Maintained**  
 > The official Bitnami Kafka images have been deprecated and are no longer available on Docker Hub. This repository replaces the old Bitnami-based setup with the maintained [`bitnamilegacy/kafka`](https://hub.docker.com/r/bitnamilegacy/kafka) image, preserving the same configuration interface and workflow so you can keep moving without interruption.
